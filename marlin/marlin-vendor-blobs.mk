@@ -79,6 +79,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/marlin/proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml:system/etc/cne/Nexus/VZW/VZW_profiles.xml \
     vendor/google_devices/marlin/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/google_devices/marlin/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
+    vendor/google_devices/marlin/proprietary/etc/sysconfig/photo_backup.xml:system/etc/sysconfig/photo_backup.xml \
     vendor/google_devices/marlin/proprietary/etc/diag/CHRE.cfg:system/etc/diag/CHRE.cfg \
     vendor/google_devices/marlin/proprietary/etc/diag/IMS.cfg:system/etc/diag/IMS.cfg \
     vendor/google_devices/marlin/proprietary/etc/diag/MarlinSailfish_Radio-generic.cfg:system/etc/diag/MarlinSailfish_Radio-generic.cfg \
